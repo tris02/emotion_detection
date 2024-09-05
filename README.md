@@ -13,11 +13,15 @@ Emotion Detection is a Python package that leverages an external sentiment analy
 
 ## Installation
 
-To install the package locally using `pip`, navigate to the project directory and run in bash: '''pip install .'''
+To install the package locally using `pip`, navigate to the project directory and run in bash: 
+'''pip install
+'''
 
 ## Web Interface
 
-To start the Flask server, run: '''python server.py'''      (# python3.11 used in development version). 
+To start the Flask server, run (python3.11 is used in development version): 
+'''python server.py
+'''        
 Then navigate to http://localhost:5000/ in your web browser to access the web interface.
 
 ## License
