@@ -15,7 +15,7 @@ Emotion Detection is a Python package that leverages an external sentiment analy
 
 To install the package locally using `pip`, navigate to the project directory and run in bash: 
  ```bash
-pip install
+pip install .
  ```
 
 ## Web Interface
